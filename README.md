@@ -31,8 +31,8 @@ Simply run the command: ***pip install -r requirements.txt**
 7. **Save Changes.** Go to the deploy tab and deploy you app and you’re done!.
 
 <hr>
-## NOTE:
-*  Ensure your entire web app folder structure is maintained in the same format as you see here ( as in case of Flask ).
+<b>NOTE:</b>
+ *  Ensure your entire web app folder structure is maintained in the same format as you see here ( as in case of Flask ).
 <hr>
 
 
