@@ -1,4 +1,5 @@
 # :heart: Pic<2>Sketch :heart:
+A minimalistic computer vision based Web application that makes use of some blurring and image blending (dodging and burning) techniques to generate pencil sketch like output for any image fed as input.
 ## Live app available [here.](https://pic2sketch.herokuapp.com)
 
 ![](https://user-images.githubusercontent.com/29462447/90712398-92a35f80-e2c0-11ea-8fe2-031a7e67a0bc.jpg)
