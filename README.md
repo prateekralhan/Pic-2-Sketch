@@ -1,9 +1,9 @@
 # :heart: Pic<2>Sketch :heart:
 ## Live app available [here.](https://pic2sketch.herokuapp.com)
 
-<img src="https://user-images.githubusercontent.com/29462447/90712398-92a35f80-e2c0-11ea-8fe2-031a7e67a0bc.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/90712398-92a35f80-e2c0-11ea-8fe2-031a7e67a0bc.jpg" width="350" height="600" />
+<img src="https://user-images.githubusercontent.com/29462447/90712398-92a35f80-e2c0-11ea-8fe2-031a7e67a0bc.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/90712398-92a35f80-e2c0-11ea-8fe2-031a7e67a0bc.jpg" width="330" height="480" />
 
-<img src="https://user-images.githubusercontent.com/29462447/90712401-946d2300-e2c0-11ea-8312-b44e033bb413.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/90712401-946d2300-e2c0-11ea-8312-b44e033bb413.jpg" width="350" height="600" />
+<img src="https://user-images.githubusercontent.com/29462447/90712401-946d2300-e2c0-11ea-8312-b44e033bb413.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/90712401-946d2300-e2c0-11ea-8312-b44e033bb413.jpg" width="330" height="480" />
 
 
 ### Installation:
