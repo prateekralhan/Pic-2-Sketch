@@ -38,4 +38,19 @@ Simply run the command: ***pip install -r requirements.txt**
  *  Ensure your entire web app folder structure is maintained in the same format as you see here ( as in case of Flask ).
 <hr>
 
+### Running the Dockerized App
+1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this].(https://docs.docker.com/engine/install/)
+2. Navigate to the folder where you have cloned this repository ( where the ***Dockerfile*** is present ).
+3. Build the Docker Image (don't forget the dot!! :smile: ): 
+```
+docker build --tag sketch_app .
+```
+4. Run the docker:
+```
+docker run --publish 8000:8080 --detach --name bb sketch_app
+```
 
+This will launch the dockerized app. Navigate to ***localhost:8000*** in your browser to have a look at your application. You can check the status of your all available running dockers by:
+```
+docker ps
+```
