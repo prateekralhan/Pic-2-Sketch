@@ -39,7 +39,7 @@ Simply run the command: ***pip install -r requirements.txt**
 <hr>
 
 ### Running the Dockerized App
-1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this].(https://docs.docker.com/engine/install/)
+1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
 2. Navigate to the folder where you have cloned this repository ( where the ***Dockerfile*** is present ).
 3. Build the Docker Image (don't forget the dot!! :smile: ): 
 ```
@@ -54,3 +54,5 @@ This will launch the dockerized app. Navigate to ***localhost:8000*** in your br
 ```
 docker ps
 ```
+![1](https://user-images.githubusercontent.com/29462447/99376234-af185d80-28ea-11eb-88b2-8fd45c13d078.png)
+![2](https://user-images.githubusercontent.com/29462447/99376238-b0498a80-28ea-11eb-9141-49e8845444ae.png)
