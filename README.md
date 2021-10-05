@@ -1,4 +1,4 @@
-# :heart: Pic<2>Sketch :heart:
+# :heart: Pic<2>Sketch :heart: [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 A minimalistic computer vision based Web application that makes use of some blurring and image blending (dodging and burning) techniques to generate pencil sketch like output for any image fed as input.
 ## Live app available [here.](https://pic2sketch.herokuapp.com)
 
