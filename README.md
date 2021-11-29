@@ -1,4 +1,5 @@
-# :heart: Pic<2>Sketch :heart: [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+# :heart: Pic<2>Sketch :heart: [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 A minimalistic computer vision based Web application that makes use of some blurring and image blending (dodging and burning) techniques to generate pencil sketch like output for any image fed as input.
 ## Live app available [here.](https://pic2sketch.herokuapp.com)
 
